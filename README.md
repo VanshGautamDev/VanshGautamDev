@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi, I'm Vansh Gautam 👋  <br>Aspiring Data Scientist | Machine Learning Enthusiast  <br><br>I build ML models and real-world projects focused on healthcare and AI.  <br>Currently exploring Flask, BioBERT, and full-stack ML applications.  <br><br>💡 Always learning, building, and experimenting with new ideas.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaxsh._xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vanshgautam33) 
